@@ -4,6 +4,7 @@ Desenvolvida no final dos anos 80 pelo italiano Francesco Cirillo, que procurava
 
 ## Como funciona? 🍅
 O método Pomodoro é simples e dura duas horas. Primeiro, realiza-se uma atividade durante 25 minutos. Quando acabar o tempo, descanse 5 minutos. Assim sucessivamente até que complete as duas horas. Como recompensa, você descansa mais 30 minutos ao final de 4 ciclos pomodoros.
+
 ![Ciclo Pomodoro](https://www.napratica.org.br/wp-content/webp-express/webp-images/uploads/2021/04/ciclo-tecnica-pomodoro-1024x683.jpg.webp)
 
 # Pomodoro App 🍅
