@@ -11,7 +11,7 @@ O método Pomodoro é simples e dura duas horas. Primeiro, realiza-se uma ativid
 O projeto Pomodoro App foi criado na intenção de estudar os frameworks de frontend React com a utilização do TypeScript, um superset da linguagem JavaScript.
 
 ## Tela Inicial
-![Tela inicial](https://imgur.com/a/BvWRMn6)
+![Tela inicial](https://i.imgur.com/pjK4WM2.png)
 
 ## Tela Início Ciclo
 ![Tela ao iniciar ciclo](https://imgur.com/a/04Ff5Ov)
