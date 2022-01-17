@@ -14,7 +14,7 @@ O projeto Pomodoro App foi criado na intenção de estudar os frameworks de fron
 ![Tela inicial](https://i.imgur.com/pjK4WM2.png)
 
 ## Tela Início Ciclo
-![Tela ao iniciar ciclo](https://imgur.com/a/04Ff5Ov)
+![Tela ao iniciar ciclo](https://i.imgur.com/MvD4Ppn.png)
 
 ## Tela Descanso
-![Tela de descanso](imgur.com/jgM2QX5)
+![Tela de descanso](https://i.imgur.com/jgM2QX5.png)
